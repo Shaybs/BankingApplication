@@ -1,0 +1,4 @@
+/ignore_folder/*
+venv/*
+tests/__init__.py
+/banking_application/__init__.py
