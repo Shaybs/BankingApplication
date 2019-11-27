@@ -1,5 +1,5 @@
 import pytest
-from python_exercises import anti_vowel
+from banking_application import banking_application
 
 #No numbers test
 def test_anti_vowel_vowels():
